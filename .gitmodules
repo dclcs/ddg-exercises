@@ -1,6 +1,6 @@
 [submodule "deps/geometry-central"]
 	path = deps/geometry-central
-	url = https://github.com.cnpmjs.org//dclcs/geometry-central.git
+	url = https://github.com.cnpmjs.org/dclcs/geometry-central.git
 [submodule "deps/polyscope"]
 	path = deps/polyscope
 	url = https://github.com.cnpmjs.org/dclcs/polyscope.git
